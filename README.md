@@ -140,3 +140,4 @@ Here are some ideas to get you started:
 :zap:Готов к удалённой работе, доступен в течение всего дня. Рассматриваю как полную, так и частичную занятость.
 
 ---
+![](https://komarev.com/ghpvc/?username=KozlovskyS&color=green)
