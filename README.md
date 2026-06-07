@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Привет! 👋
 
 <h2>
@@ -21,8 +22,19 @@ Here are some ideas to get you started:
 </h2>
 
 <div align="center">
-  <img width="2580" height="1406" alt="Blog_STC" src="https://github.com/user-attachments/assets/5240fc96-a88f-43f8-aa16-34c805285aaf" />
+  <img width="560" height="250" alt="Blog_STC" src="https://github.com/user-attachments/assets/5240fc96-a88f-43f8-aa16-34c805285aaf" />
 </div>
+<p align="left">
+  <strong>Контакты:</strong>
+  &nbsp;&nbsp;
+  <a href="mailto:skozpost@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-skozpost%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/GoodSko">
+    <img src="https://img.shields.io/badge/Telegram-@GoodSko-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 ---
 
@@ -77,7 +89,39 @@ Here are some ideas to get you started:
 
 ### :file_folder: Completed Projects:
 
-**Учебный проект: Курсовая работа по ручному тестированию интернет-магазина [Henderson](https://henderson.ru):** 
+**Стажировка в проекте "Кловери.Старт" группы компаний "Эйтика":**
+
+**_Стартап-проект:_** RestoPay - платформа персонализированного сервиса для ресторанов. Разработка web-приложения для сбора и обработки заявок на обслуживание клиентов ресторанов.
+
+**_Позиция:_** QA engineer.
+
+- Отработан план тестирования.
+- Разработаны чек лист и тест-кейсы тестирования.
+- Выполнено ручное тестирование функционала приложения.
+- Разработаны автотесты на Java с использованием Selenide, отчеты в системе Allure.
+- На обнаруженные дефекты заведены баг-репорты.
+- Отработан отчет по результатам выполненного тестирования.
+
+**[Сертификат о стажировке](https://start.cloveri.com/certificate/70db3020-3825-57e1-1077-3ec7d8f2ddae/)**
+
+**[Справка о прохождении стажировки]()**
+
+**Учебный проект: Дипломная работа по автоматизации тестирования мобильного приложения «Мобильный хоспис»:**
+
+- Выполнено ручное тестирование мобильного приложения «Мобильный хоспис».
+- Составлен чек-лист и отработаны тест-кейсы для тестирования приложения.
+- Автоматизированы проверки по тест-кейсам.
+- Созданы отчеты о тестировании.
+- Материалы проекта доступны по [ссылке](https://github.com/KozlovskyS/Diploma_project_QA).
+
+**Учебный проект: Курсовой проект по модулю "Автоматизация тестирования". UI-тестирование веб-сервиса по покупке тура «Путешествие дня»:**
+
+- Составлен тестовый план и отчетность по результатам тестирования.
+- Разработано тестовое окружение для UI-тестирования.
+- Отработаны отчеты об ошибках для найденных дефектов.
+- Материалы по проекту доступны по [ссылке](https://github.com/KozlovskyS/CourseProject_AutoTest/blob/main/README.md).
+
+**Учебный проект: Курсовая работа по ручному тестированию интернет-магазина [Henderson](https://henderson.ru):**
 
 [Задание по работе](https://github.com/netology-code/iqa-diplom)
 
@@ -86,32 +130,16 @@ Here are some ideas to get you started:
 - Созданы отчеты об ошибках.
 - Материалы по проекту доступны по [ссылке](https://disk.yandex.ru/i/OsA2IOrhHz--Vg).
 
-**Учебный проект: Курсовой проект по модулю "Автоматизация тестирования". UI-тестирование веб-сервиса по покупке тура «Путешествие дня»:**
-
-- Составлен тестовый план и отчетность по результатам тестирования.
-- Разработано тестовое окружение для UI-тестирования.
-- Отработаны отчеты об ошибках для найденных дефектов. 
-- Материалы по проекту доступны по [ссылке](https://github.com/KozlovskyS/CourseProject_AutoTest/blob/main/README.md).
-
-**Учебный проект: Дипломная работа по автоматизации тестирования мобильного приложения «Мобильный хоспис»:**
-
-- Выпонено ручное тестирование мобильного приложения «Мобильный хоспис».
-- Составлен чек-лист и отработаны тест-кейсы для тестирования приложения.
-- Автоматизированы проверки по тест-кейсам.
-- Созданы отчеты о тестировании. 
-- Материалы проекта доступны по [ссылке](https://github.com/KozlovskyS/Diploma_project_QA).
-
 **Учебные домашние задания**
 
 1. [Ручное тестирование веб-приложений]().
-2. [Java для тестировщиков]().
-3. [Автоматизированное тестирование]().
-4. [JavaScript для тестировщиков]().
-5. [Автоматизация тестирования веб-интерфейсов]().
-6. [Тестирование мобильных приложений]().
-7. [Тестирование производительности]().
-8. [Тестирование безопасности]().
-
+2. [Java для тестировщиков](https://github.com/KozlovskyS/HW_JavaQA_15-aviaSort).
+3. [Автоматизированное тестирование](https://github.com/KozlovskyS/HW_AutoTest-6-PageObject).
+4. [JavaScript для тестировщиков](https://github.com/KozlovskyS/HW_JSAQA-5-Cypress-2-1-integration).
+5. [Автоматизация тестирования веб-интерфейсов](https://github.com/KozlovskyS/HW_JSAQA-4-Puppeteer-2).
+6. [Тестирование мобильных приложений](https://github.com/KozlovskyS/HW_MobTest_2-5-Espresso).
+7. [Тестирование производительности](https://github.com/KozlovskyS/HW_10_4_load_DB/blob/main/homework_lecture4.md).
+8. [Тестирование безопасности](https://disk.yandex.ru/i/p5wzr0TLGFySQw).
 
 ---
 
@@ -126,8 +154,7 @@ Here are some ideas to get you started:
 - ["Автоматизация тестирования веб-интерфейсов"](https://netology.ru/sharing/031aaec346b4c932acb3c7c34d8da8b5?utm_source=social&utm_campaign=certificate_lms)
 - ["Тестирование мобильных приложений"](https://netology.ru/sharing/c0614695f5a7ffa762ffd886df2a73db?utm_source=social&utm_campaign=certificate_lms)
 - ["Тестирование производительности"](https://netology.ru/sharing/4ae5b99624c55ea5714a447b5ca30e71?utm_source=social&utm_campaign=certificate_lms)
-- ["Тестирование безопасности"](https://netology.ru/sharing/d85e01c7c3233af6e8d3928a6fa739d2?utm_source=social&utm_campaign=certificate_lms )
-
+- ["Тестирование безопасности"](https://netology.ru/sharing/d85e01c7c3233af6e8d3928a6fa739d2?utm_source=social&utm_campaign=certificate_lms)
 
 ---
 
@@ -140,4 +167,5 @@ Here are some ideas to get you started:
 :zap:Готов к удалённой работе, доступен в течение всего дня. Рассматриваю как полную, так и частичную занятость.
 
 ---
+
 ![](https://komarev.com/ghpvc/?username=KozlovskyS&color=green)
