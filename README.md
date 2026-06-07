@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 </h2>
 
 <div align="center">
-  <img width="560" height="250" alt="Blog_STC" src="https://github.com/user-attachments/assets/5240fc96-a88f-43f8-aa16-34c805285aaf" />
+  <img width="250" height="250" alt="Blog_STC" src="https://github.com/KozlovskyS/KozlovskyS/blob/main/photo/ksj.jpg" />
 </div>
-<p align="left">
+<p align="center">
   <strong>Контакты:</strong>
   &nbsp;&nbsp;
   <a href="mailto:skozpost@gmail.com">
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 **[Сертификат о стажировке](https://start.cloveri.com/certificate/70db3020-3825-57e1-1077-3ec7d8f2ddae/)**
 
-**[Справка о прохождении стажировки]()**
+**[Справка о прохождении стажировки](https://github.com/KozlovskyS/KozlovskyS/blob/main/certificates/Справка_RestoPay_Козловский_Сергей.pdf)**
 
 **Учебный проект: Дипломная работа по автоматизации тестирования мобильного приложения «Мобильный хоспис»:**
 
